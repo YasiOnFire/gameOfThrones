@@ -12,7 +12,7 @@
     "app": "node arduino/app.js"
   },
   "dependencies": {
-    "firebase": "^4.8.2",
+    "firebase": "^9.15.0",
     "vue": "^2.6.6",
     "vuefire": "^1.4.5"
   },
