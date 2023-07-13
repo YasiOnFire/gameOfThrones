@@ -21,7 +21,7 @@
     "firmata": "^0.19.1",
     "j5-songs": "0.0.9",
     "johnny-five": "^0.13.0",
-    "node-sass": "^7.0.0",
+    "node-sass": "^9.0.0",
     "sass-loader": "^6.0.6",
     "udp-serial": "^0.2.0",
     "autoprefixer": "^10.4.13",
