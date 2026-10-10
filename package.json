@@ -50,7 +50,7 @@
     "file-loader": "^3.0.1",
     "friendly-errors-webpack-plugin": "^1.6.1",
     "html-webpack-plugin": "^5.5.0",
-    "node-notifier": "^8.0.1",
+    "node-notifier": "^11.0.0",
     "optimize-css-assets-webpack-plugin": "^6.0.1",
     "ora": "^1.2.0",
     "portfinder": "^1.0.13",
@@ -68,7 +68,7 @@
     "webpack": "^5.104.1",
     "webpack-bundle-analyzer": "^4.7.0",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^5.2.6",
+    "webpack-dev-server": "^6.0.0",
     "webpack-merge": "^4.1.0"
   },
   "engines": {
